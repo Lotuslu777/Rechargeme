@@ -1,0 +1,16 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+执行之前先看一下@package，避免新增重复的包
+组件库:shadcn
+
+cs库 :tailwind
+
+框架:nextjs
+
+状态管理:jotai
+
+数据库:vercle Neon
+
